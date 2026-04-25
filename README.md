@@ -19,3 +19,6 @@ Obtiene los 5 negocios más cercanos a unas coordenadas dadas, dentro del rango 
 #Tecnologías utilizadas Google Sheets y Google Apps Script
 
 Se utilizó la función getDataRange().getValues() para el manejo de los datos, se siguio la guía que nos proporcionaron en Blackboard.
+
+Base de datos: Google Sheets
+https://docs.google.com/spreadsheets/d/1tOdaIQ8Ns12PXElNNecBItgdft_YovT9RkzOsPF9zqc/edit?gid=1503339710#gid=1503339710
